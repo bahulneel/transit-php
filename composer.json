@@ -1,0 +1,17 @@
+{
+    "name": "bahulneel/transit-php",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neel Upadhyaya",
+            "email": "bahulneel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {"Transit\\": "src/"}
+    }
+}
