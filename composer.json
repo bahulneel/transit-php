@@ -12,6 +12,6 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": {"Transit\\": "src/"}
+        "psr-0": {"Transit\\": "src"}
     }
 }

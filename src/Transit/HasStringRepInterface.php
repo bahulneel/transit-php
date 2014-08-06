@@ -3,5 +3,5 @@ namespace Transit;
 
 interface HasStringRepInterface
 {
-    public function getStringRep();
+    public function getStringRep($v);
 }

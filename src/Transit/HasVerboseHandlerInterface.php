@@ -3,5 +3,5 @@ namespace Transit;
 
 interface HasVerboseHandlerInterface
 {
-    public function getVerboseHandler();
+    public function getVerboseHandler($v);
 }

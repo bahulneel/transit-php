@@ -3,6 +3,6 @@ namespace Transit;
 
 interface WriteHandlerInterface
 {
-    public function getTag();
-    public function getRep();
+    public function getTag($v);
+    public function getRep($v);
 }
